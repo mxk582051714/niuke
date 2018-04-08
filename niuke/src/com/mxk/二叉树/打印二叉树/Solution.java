@@ -25,6 +25,7 @@ public class Solution {
 	}
 	
 	//之字形打印二叉树
+	//git确实是存在弄丢工程的风险
 	public static void print1(TreeNode root) {
 		if(root==null)
 			return;
